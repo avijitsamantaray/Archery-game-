@@ -1,4 +1,4 @@
-this is a Archery game using pygame .if you are also intersted in manking games ,you should start with this .This is very easy to learn
+this is a Archery game using pygame .if you are also intersted in making games ,you should start with this .This is very easy to learn
   
 - # Requirements
 
